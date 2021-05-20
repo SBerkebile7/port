@@ -1,0 +1,33 @@
+.float-right {
+    float: right;
+    width: 35%;
+}
+
+.float-left {
+    float: left;
+    width: 65%;
+}
+
+header {
+    background-color: #A9A9A9;
+    color: #FFFFFF;
+}
+
+.bio-image {
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-right: 40px;
+}
+
+h1 {
+    margin: 0 0 0 20px;
+    padding: 15px 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
